@@ -1,2 +1,2 @@
 #!/bin/bash
-cd /var
+chmod +x previous_directory.sh
