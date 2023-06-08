@@ -1,2 +1,2 @@
 #!/bin/bash
-chomd 750 hello
+chomd u+x hello
