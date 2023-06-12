@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -ne $(out -o-1 | tr -d '\n')'\n'
+echo -ne $(out -o-l | tr -d '\n')'\n'
