@@ -1,2 +1,2 @@
 #!/bin/bash
-BESTCHOL=$((10#${WATER} + 10#${STIR})); echo "The result is: $BESTCHOL"
+BESTCHOL=$(echo "$((10#${WATER} + 10#${STIR}))" | awk '{print "The result is:", $1}')
