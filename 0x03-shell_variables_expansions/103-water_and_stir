@@ -1,0 +1,2 @@
+#!/bin/bash
+BESTCHOL=$((10#${WATER} + 10#${STIR})); echo "The result is: $BESTCHOL"
