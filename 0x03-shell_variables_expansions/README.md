@@ -73,8 +73,8 @@ Creates a script that lists all local variables and environment variables, and f
 
 Creates a script that creates a new local variable.
 
-*Name: BEST
-*Value: School
+* Name: BEST
+* Value: School
 
 ### 7-create_global_variable
 
